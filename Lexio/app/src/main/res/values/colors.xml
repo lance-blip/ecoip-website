@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lexio_primary_green">#1B5E20</color>
+    <color name="lexio_secondary_gold">#F9A825</color>
+    <color name="lexio_white">#FFFFFF</color>
+    <color name="lexio_background">#FAFAFA</color>
+</resources>
